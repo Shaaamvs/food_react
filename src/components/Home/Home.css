@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.displayflex{
+    display: flex;
+    justify-content:stretch;
+    height:50px;
+}
+.Taste{
+    font-family: 'Inspiration', cursive;
+    font-size: 60px;
+color:gold;
+
+}
+
+.flex{
+
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: -278px;
+}
+.Deli{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ letter-spacing:10px;
+    color: whitesmoke;
+font-size:40px;
+}
+.time{
+    width: 75%;
+    height:75vh;
+}
+.cardmenu{
+    width: 300px;
+    height: 400px;
+    margin: 1rem;
+}
+.cardimage{
+    width: 100%;
+    height: 75%;
+}
+.menu1>img{
+    width: 206px;
+    height: 121px;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+
+.menu2>img{
+    width: 206px;
+    height: 121px;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+ .mainclass{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .mainclass1{
+    display: flex;
+    justify-content: space-around;
+ }
+
+.menu3>img{
+    width: 206px;
+    height: 121px;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+.topmain{
+    position: relative;
+    top: -113px;
+}
+
+.menu4>img{
+    width: 206px;
+    height: 121px;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+.contentcenter{
+    text-align:center;
+    
+}
+.menu{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing:10px;
+       color:black;
+   font-size:30px; 
+
+}
+.lastdiv{
+    position: relative;
+    top: -118px;
+}
+.footercard{
+    height: 252px;
+    width: 100%;
+}
+
+.lastcenter{
+    position: relative;
+    top: -188px;
+    text-align: center;
+}
+.caption{
+    font-family: 'Inspiration', cursive;
+    color:whitesmoke;
+    font-size: 20px;
+}
+.bottomfooter{
+    position:relative;
+    bottom: 0px;
+}
+.Soupmenu{
+    position: relative;
+    top: -228px;
+    display: flex;
+    justify-content: space-around;   
+}
+.soupitem>img{
+    width: 206px;
+    height: 121px;
+    margin: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-around;   
+}
+.soupclass{
+    position: relative;
+    top: 88px;
+}
+.soupmagic{
+    position: relative;
+    top: -197px;
+    text-align: center;
+    font-family: 'Inspiration', cursive;
+}
+/* .homepageimage{
+    position: relative;
+    top: 2px;
+} */

@@ -1,0 +1,86 @@
+.cardlink{
+    color: black;
+}
+.veg{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.starter{
+    position: relative;
+    top: 10px;
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Inspiration', cursive;
+    color:black;
+}
+.sea{
+    width: 615px;
+    height: 222px;
+    margin: 1rem;
+    text-align: center;
+
+}
+/* .seacard{
+    width: 219px;
+    height: 147px;
+    border-radius: 5px
+} */
+
+/* .seaimage{
+    text-align: center;
+} */
+/* .chicken{
+    width: 400px;
+    height: 400px;
+} */
+
+/* .seas{
+    width: 289px;
+    height: 188px;
+    border-radius: 3rem;
+
+} */
+.centersea{
+    position: relative;
+    top: 55px;
+    left: 15px;
+    text-align: center;
+}
+.freshsea{
+    letter-spacing:2px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Inspiration', cursive;
+    color: black;
+}
+.card-title{
+    font-family: 'Inspiration', cursive;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.seafooditem{
+    display: flex;
+    margin: 9px;
+    padding: 1px;
+    position: relative;
+    justify-content: space-between;
+    top: 100px;
+
+}
+
+
+.seafooditem2{
+    display: flex;
+    margin:9px;
+    padding: 1px;
+    position: relative;
+    justify-content: space-between;
+    top:0px;
+}
