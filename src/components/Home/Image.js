@@ -10,14 +10,12 @@ import Soup2 from '../Image/soup2.jpg'
 import Soup3 from '../Image/soup3.jpg'
 import Soup4 from '../Image/soup4.jpg'
 import Soup5 from '../Image/soup5.jpg'
-
-
 import Footer from './Footer'
 function Image() {
     return (
         <>
             <div className='topmain' data-aos="fade-up"
-     data-aos-anchor-placement="center-bottom" data-aos-duration="2000">
+     data-aos-anchor-placement="center-bottom" data-aos-duration="3000">
                 <div className='mainclass'>
                     <div className='menu1'>
                         <img src={Menu1} />
@@ -106,10 +104,8 @@ function Image() {
 
 
 
-
-
-
         </>
+      
     )
 }
 

@@ -9,7 +9,6 @@ import Sea7 from '../Image/sea7.jpg'
 import '../Menu/Menu.css'
 import Footer from '../Home/Footer';
 import { Container } from '@mui/material'
-// import Sea1 from '../Image/sea1.jpg'
 
 export default function Seafood() {
   return (
@@ -36,42 +35,6 @@ export default function Seafood() {
 <h3 className='freshsea'data-aos="fade-up-right" data-aos-duration="2000">Fresh seafood is the best!
 </h3>
 
-{/* <div className='seafooditem'data-aos="fade-up-right" data-aos-duration="2000">
-<div class="">
-  <div class="col">
-    <div class="card">
-      <img src={Sea4} class="card-img-top" alt="..."className='seas'/>
-      <div class="card-body">
-        <h5 class="card-title">Vanjaram Fish</h5>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card">
-      <img src={Sea5} class="card-img-top" alt="..."className='seas'/>
-      <div class="card-body">
-        <h5 class="card-title">Tavamean Rost</h5>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card">
-      <img src={Sea6} class="card-img-top" alt="..." className='seas'/>
-      <div class="card-body">
-        <h5 class="card-title">Nethili-Fish-Fry.</h5>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card">
-      <img src={Sea7} class="card-img-top" alt="..." className='seas'/>
-      <div class="card-body">
-        <h5 class="card-title">Crab Fry</h5>
-      </div>
-    </div>
-  </div>
-</div>
-</div> */}
 
 
 <div className='topmain' data-aos="fade-up"
